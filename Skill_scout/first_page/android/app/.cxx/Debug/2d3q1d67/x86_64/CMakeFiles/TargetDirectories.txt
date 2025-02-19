@@ -1,0 +1,2 @@
+/Users/nirajsharma/Desktop/Skill_scout/first_page/android/app/.cxx/Debug/2d3q1d67/x86_64/CMakeFiles/edit_cache.dir
+/Users/nirajsharma/Desktop/Skill_scout/first_page/android/app/.cxx/Debug/2d3q1d67/x86_64/CMakeFiles/rebuild_cache.dir
