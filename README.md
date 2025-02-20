@@ -1,4 +1,4 @@
-# SKILL SCOUT - The Worker Finder
+# SKILL SCOUT - The Worker Finder (still developing- most things dont seem to work)
 
 This repository contains both the frontend and backend code for the SKILL SCOUT application.
 
