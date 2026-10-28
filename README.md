@@ -35,29 +35,12 @@ The project combines a **Flutter** mobile application with a **Node.js** backend
 ## Architecture
 
 The application separates the mobile interface, server-side logic, and database into distinct components.
+<img width="314" height="394" alt="Image" src="https://github.com/user-attachments/assets/08a4f084-d64a-4ae8-b053-ca6d1ae01d03" />
 
-```text
-┌──────────────────────────┐
-│     Flutter Frontend     │
-│     Mobile Application   │
-└────────────┬─────────────┘
-             │
-             │ API Communication
-             ▼
-┌──────────────────────────┐
-│      Node.js Backend     │
-│                          │
-│     MVC Architecture     │
-│   Routes and Controllers │
-│   Authentication Logic  │
-└────────────┬─────────────┘
-             │
-             ▼
-┌──────────────────────────┐
-│         MongoDB          │
-│      Data Persistence    │
-└──────────────────────────┘
-```
+### working
+<img width="906" height="821" alt="Image" src="https://github.com/user-attachments/assets/8827fccd-5a0a-46cb-a193-fa0d00d12a6b" />
+DEMO:
+https://github.com/user-attachments/assets/d4a719d7-c5bd-4575-9a03-8f8dc02d6b18
 
 ### Frontend
 
